@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anebastoss
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C#
 - 📫 Contact me anebastos25@gmail.com
 - 😄 Pronouns: She/Her
 
